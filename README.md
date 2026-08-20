@@ -4,6 +4,10 @@ I usually take my time to set up a server so I know for certain everything is co
 
 Securing server takes time, yes I could just write a script and automate it but doing thing manually and on the fly makes it more of a challenge and builds skills and knowlegde. If I'm skilled enough I will automate the process to reduce operation cost even more.
 
+## Disclaimer
+
+This is a documented project for educational purposes. Use at your own discretion.
+
 ## To do list
 - {DONE} Choose a cloud provider = Hostinger
 - {PENDING} Set up secure log in to the of the server

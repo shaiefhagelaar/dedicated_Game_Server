@@ -1,6 +1,6 @@
 # Dedicated_Game_Server
 
-I usually take my time to set up a server so I know for certain everything is configured with regards to best practices. Since people are in a rush I skipped a few steps along the line which is something I will never do again. Also I should configure more servers and spin them up more often, I have a Dell Optiplex laying around which I could use as a dedicated game server connected to a switch. I'll make a repo in the near future (time of writing = 21/08/2026 00:16.
+I usually take my time to set up a server so I know for certain everything is configured with regards to best practices. Since people are in a rush I skipped a few steps along the line which is something I will never do again. Also I should configure more servers and spin them up more often, I have a Dell Optiplex laying around which I could use as a dedicated game server connected to a switch. I'll make a repo in the near future (time of writing = 21/08/2026 00:16).
 
 Securing server takes time, yes I could just write a script and automate it but doing thing manually and on the fly makes it more of a challenge and builds skills and knowlegde. If I'm skilled enough I will automate the process to reduce operation cost even more.
 

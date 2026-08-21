@@ -1,5 +1,12 @@
 # Logged into AMP Panel
 
+Before you start you should know how to get the mod info ID's and the Steam workshop ID's. Each of these will be covered in a different section:
+
+- instructions_Mod_Info_ID_Look_up.md {Will be added}
+
+- instructions_Steam_ID_Look_up.md {Will be added}
+
+
 Now you logged into the Hostinger Game Panel from here on out we'll configure 3 different panels.
 
 - 1st panel/box (Load mods panel) we'll configure is the ID's from the mods.info files \{modname};
@@ -24,7 +31,7 @@ Scroll down on the page until you see mods ID info panel/box. !!!NOTE!!! You can
 
 Now add the mod ID's that have the following format:
 
-\{name_of_the_mod};
+        \{name_of_the_mod};
 
 #### Example
 
@@ -33,11 +40,23 @@ Now add the mod ID's that have the following format:
 
 ## Panel 2: adding Steam Workshop ID's to installing Project Zomboid panel/box
 
+<img width="2557" height="885" alt="game_Panel_VPS_5" src="https://github.com/user-attachments/assets/efe1ddfa-ceb7-44b9-8cf6-6c400a11d294" />
 
+On the same page you can add the Steam Workshop ID's in panel/box No. 2 so the server can install them 
+
+Now add the Steam ID's that have the following format:
+
+        \{Steam_ID};
+
+#### Example
+
+        3077900375;3549290115;3586053117;3703948448;3253385114;3171167894;2962175696;3670064951;3378304610;3386906181;2503622437;3346905070;3026723485;3570973322;2886832936
 
 ## Updates Panel 3: adding Steam Workshop ID's to updates page
 
 <img width="2557" height="885" alt="game_Panel_VPS_5" src="https://github.com/user-attachments/assets/efe1ddfa-ceb7-44b9-8cf6-6c400a11d294" />
+
+Click the search field No. 3:
 
 <img width="2556" height="1198" alt="game_Panel_VPS_6" src="https://github.com/user-attachments/assets/543af470-bc1f-48db-adfd-d1f7050abddb" />
 
@@ -55,7 +74,16 @@ The page should contain a panel with the following header: Steam Workshop Items
 
 Click on No. 1 to edit the Steam workshops Items ID's.
 
+Now add the Steam ID's that have the following format:
+
+        \{WorkshopItems=}{Steam_ID};
+
+#### Example
+
+        WorkshopItems=3077900375;3549290115;3586053117;3703948448;3253385114;3171167894;2962175696;3670064951;3378304610;3386906181;2503622437;3346905070;3026723485;3570973322;2886832936
+
 <img width="2557" height="877" alt="game_Panel_VPS_8" src="https://github.com/user-attachments/assets/f84988f9-853d-4993-9edb-513060c8886a" />
+
 
 When your done editing the field click the save button and proceed with the instruction below.
 

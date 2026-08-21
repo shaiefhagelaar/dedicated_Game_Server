@@ -1,13 +1,12 @@
 # Instructions
 
-These instructions are for the Hostinger VPS set up. Also these instruction assume you already set up your server/instance. If you do need help setting it up you can go to the following support article:
+These instructions are for accessing the AMP panel. Also these instruction assume you already set up your server/instance. If you do need help setting it up you can go to the following support article:
 
     https://www.hostinger.com/support/10046176-how-to-get-started-with-hostinger-s-game-panel/
 
-
 AMP Panel which simplifies the installation of the mods. I ran into some issues installing the mods and testing them. There are 3 specific panels that need different ID's to get the mods to work on the server. Make sure that before you start you make a back-up of the server just in case something breaks, this will make it easier to correct any mistakes or errors that might occur.
 
-## Home Panel Hostinger VPS
+## Accessing AMP Home Panel  
 
 Click on No.1 the Home tab then navigate to the bottom of the page and in the box named VPS click on No.2 Manage.
 
@@ -32,7 +31,6 @@ Now you're getting another instance to log in , provide your username in No. 1 a
 Now you logged into the Hostinger Game Panel from here on out we'll configure 3 different panels.
 
 <img width="2557" height="885" alt="game_Panel_VPS_5" src="https://github.com/user-attachments/assets/efe1ddfa-ceb7-44b9-8cf6-6c400a11d294" />
-
 
 ### Additional info
 

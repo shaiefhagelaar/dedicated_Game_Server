@@ -28,10 +28,6 @@ Now you're getting another instance to log in , provide your username in No. 1 a
 
 <img width="2553" height="1029" alt="game_Panel_VPS_2" src="https://github.com/user-attachments/assets/3dfb9c60-e45b-4b18-adf1-bb5eb83ffaa8" />
 
-Now you logged into the Hostinger Game Panel from here on out we'll configure 3 different panels.
-
-<img width="2557" height="885" alt="game_Panel_VPS_5" src="https://github.com/user-attachments/assets/efe1ddfa-ceb7-44b9-8cf6-6c400a11d294" />
-
 ### Additional info
 
 When your finished with the instructions above you can proceed with instructions_adding_ID's.md listed in this folder.

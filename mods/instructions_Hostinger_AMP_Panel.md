@@ -34,6 +34,8 @@ Now you logged into the Hostinger Game Panel from here on out we'll configure 3 
 
 ### Additional info
 
+When your finished with the instructions above you can proceed with instructions_adding_ID's.md listed in this folder.
+
 Best practices for passwords article
 
 #### Article about storing passwords

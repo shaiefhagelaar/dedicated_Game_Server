@@ -8,29 +8,37 @@ AMP Panel which simplifies the installation of the mods. I ran into some issues 
 
 ## Accessing AMP Home Panel  
 
+
 Click on No.1 the Home tab then navigate to the bottom of the page and in the box named VPS click on No.2 Manage.
 
 <img width="2518" height="1177" alt="home_Panel_VPS_0" src="https://github.com/user-attachments/assets/ed3fc4f8-5220-4d8e-bbb8-100151b7bb74" />
+
 
 It should redirect to the following page and click on No. 1:
 
 <img width="2542" height="891" alt="home_Panel_VPS_1" src="https://github.com/user-attachments/assets/8db0ea03-123f-4a9c-8505-237be9ca00b7" />
 
+
 This should redirect you to the Game Panel, provide your username in No. 1 and your password in No. 2 (use best practices for storing a password listed at the bottom of the page):
 
 <img width="2553" height="1243" alt="game_Panel_VPS_0" src="https://github.com/user-attachments/assets/4c602a3d-99b2-43b9-b2b8-559efa879a84" />
+
 
 Now you should be logged into the game panel click on No. 1:
 
 <img width="2556" height="1246" alt="game_Panel_VPS_1" src="https://github.com/user-attachments/assets/867756ff-cfcb-4bc0-a235-fea853d1fdac" />
 
-Now you're getting another instance to log in , provide your username in No. 1 and your password in No. 2 (use best practices for storing a password listed at the bottom of the page)
+
+Now you're getting another instance to log in, provide your username in No. 1 and your password in No. 2 (use best practices for storing a password listed at the bottom of the page)
 
 <img width="2553" height="1029" alt="game_Panel_VPS_2" src="https://github.com/user-attachments/assets/3dfb9c60-e45b-4b18-adf1-bb5eb83ffaa8" />
 
-### Additional info
 
-When your finished with the instructions above you can proceed with instructions_adding_ID's.md listed in this folder.
+Log in successful! When your finished with the instructions above we will be using the No. 1 & No. 2  fields and you can proceed with instructions_adding_ID's.md listed in this folder /mods.
+
+<img width="2554" height="1258" alt="game_Panel_VPS_3" src="https://github.com/user-attachments/assets/b521def8-1b98-460e-bdbf-cfbba444fb7d" />
+
+## Additional info
 
 Best practices for passwords article
 

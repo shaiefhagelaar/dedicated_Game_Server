@@ -50,19 +50,19 @@ Overview of setting up security:
     3.1. Choose a BIOS password
     3.2. Partitioning the system
 
-        3.2.1. Choose an intelligent partition scheme
-        3.2.2. Selecting the appropriate file systems
+    3.2.1. Choose an intelligent partition scheme
+    3.2.2. Selecting the appropriate file systems
 
     3.3. Do not plug to the Internet until ready
     3.4. Set a root password
     3.5. Run the minimum number of services required
 
-        3.5.1. Disabling daemon services
-        3.5.2. Disabling inetd or its services
+    3.5.1. Disabling daemon services
+    3.5.2. Disabling inetd or its services
 
     3.6. Install the minimum amount of software required
 
-        3.6.1. Removing Perl
+    3.6.1. Removing Perl
 
     3.7. Read the Debian security mailing lists
 
@@ -71,8 +71,8 @@ Overview of setting up security:
     4.1. Subscribe to the Debian Security Announce mailing list
     4.2. Execute a security update
 
-        4.2.1. Security update of libraries
-        4.2.2. Security update of the kernel
+    4.2.1. Security update of libraries
+    4.2.2. Security update of the kernel
 
     4.3. Change the BIOS (again)
     4.4. Set a LILO or GRUB password
@@ -83,55 +83,55 @@ Overview of setting up security:
     4.9. Restricting the use of the Magic SysRq key
     4.10. Mounting partitions the right way
 
-        4.10.1. Setting /tmp noexec
-        4.10.2. Setting /usr read-only
+    4.10.1. Setting /tmp noexec
+    4.10.2. Setting /usr read-only
 
     4.11. Providing secure user access
 
-        4.11.1. User authentication: PAM
-        4.11.2. Password security in PAM
-        4.11.3. User access control in PAM
-        4.11.4. User limits in PAM
-        4.11.5. Control of su in PAM
-        4.11.6. Temporary directories in PAM
-        4.11.7. Configuration for undefined PAM applications
-        4.11.8. Limiting resource usage: the limits.conf file
-        4.11.9. User login actions: edit /etc/login.defs
-        4.11.10. User login actions: edit /etc/pam.d/login
-        4.11.11. Restricting ftp: editing /etc/ftpusers
-        4.11.12. Using su
-        4.11.13. Using sudo
-        4.11.14. Disallow remote administrative access
-        4.11.15. Restricting users's access
-        4.11.16. User auditing
-        4.11.17. Reviewing user profiles
-        4.11.18. Setting users umasks
-        4.11.19. Limiting what users can see/access
-        4.11.20. Generating user passwords
-        4.11.21. Checking user passwords
-        4.11.22. Logging off idle users
+    4.11.1. User authentication: PAM
+    4.11.2. Password security in PAM
+    4.11.3. User access control in PAM
+    4.11.4. User limits in PAM
+    4.11.5. Control of su in PAM
+    4.11.6. Temporary directories in PAM
+    4.11.7. Configuration for undefined PAM applications
+    4.11.8. Limiting resource usage: the limits.conf file
+    4.11.9. User login actions: edit /etc/login.defs
+    4.11.10. User login actions: edit /etc/pam.d/login
+    4.11.11. Restricting ftp: editing /etc/ftpusers
+    4.11.12. Using su
+    4.11.13. Using sudo
+    4.11.14. Disallow remote administrative access
+    4.11.15. Restricting users's access
+    4.11.16. User auditing
+    4.11.17. Reviewing user profiles
+    4.11.18. Setting users umasks
+    4.11.19. Limiting what users can see/access
+    4.11.20. Generating user passwords
+    4.11.21. Checking user passwords
+    4.11.22. Logging off idle users
 
     4.12. Using tcpwrappers
     4.13. The importance of logs and alerts
 
-        4.13.1. Using and customizing logcheck
-        4.13.2. Configuring where alerts are sent
-        4.13.3. Using a loghost
-        4.13.4. Log file permissions
+    4.13.1. Using and customizing logcheck
+    4.13.2. Configuring where alerts are sent
+    4.13.3. Using a loghost
+    4.13.4. Log file permissions
 
     4.14. Adding kernel patches
     4.15. Protecting against buffer overflows
 
-        4.15.1. Kernel patch protection for buffer overflows
-        4.15.2. Testing programs for overflows
+    4.15.1. Kernel patch protection for buffer overflows
+    4.15.2. Testing programs for overflows
 
     4.16. Secure file transfers
     4.17. File system limits and control
 
-        4.17.1. Using quotas
-        4.17.2. The ext2 filesystem specific attributes (chattr/lsattr)
-        4.17.3. Checking file system integrity
-        4.17.4. Setting up setuid check
+    4.17.1. Using quotas
+    4.17.2. The ext2 filesystem specific attributes (chattr/lsattr)
+    4.17.3. Checking file system integrity
+    4.17.4. Setting up setuid check
 
     4.18. Securing network access
 

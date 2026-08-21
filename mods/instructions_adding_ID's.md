@@ -1,14 +1,26 @@
-- 1st panel (Load mods panel) we'll configure is the ID's from the mods.info files \{modname};
+# Logged into AMP Panel
 
-- 2nd panel (Install Workshop Items panel) we'll add the Steam ID's separate with a ;
+Now you logged into the Hostinger Game Panel from here on out we'll configure 3 different panels.
 
-- 3rd panel will look up the directory which should lead to the corresponding panel. The directory should be named:  We'll add the Steam ID's seperated with a ; 
+- 1st panel/box (Load mods panel) we'll configure is the ID's from the mods.info files \{modname};
 
-### Panel 2 Steam Workshop ID's
+- 2nd panel/box (Install Workshop Items panel) we'll add the Steam ID's separate with a ;
+
+- 3rd panel/box will look up the directory which should lead to the corresponding panel. The directory should be named:  We'll add the Steam ID's seperated with a ; 
+
+### Panel 1: adding mods ID info to the Load mods panel/box
+
+This is pretty straight forward
+
+### Panel 2: adding Steam Workshop ID's Project Zomboid
 
 
 
-### Updates Panel 3 adding Steam Workshop ID's
+### Updates Panel 3: adding Steam Workshop ID's to updates page
+
+
+
+<img width="2557" height="885" alt="game_Panel_VPS_5" src="https://github.com/user-attachments/assets/efe1ddfa-ceb7-44b9-8cf6-6c400a11d294" />
 
 <img width="2556" height="1198" alt="game_Panel_VPS_6" src="https://github.com/user-attachments/assets/543af470-bc1f-48db-adfd-d1f7050abddb" />
 

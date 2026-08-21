@@ -8,17 +8,34 @@ Now you logged into the Hostinger Game Panel from here on out we'll configure 3 
 
 - 3rd panel/box will look up the directory which should lead to the corresponding panel. The directory should be named:  We'll add the Steam ID's seperated with a ; 
 
-### Panel 1: adding mods ID info to the Load mods panel/box
+## Load mods panel (aka Panel 1) 
 
-This is pretty straight forward
+<img width="2554" height="1258" alt="game_Panel_VPS_3" src="https://github.com/user-attachments/assets/a839677b-b82f-4dd8-8149-92d44a97b478" />
 
-### Panel 2: adding Steam Workshop ID's Project Zomboid
+On the landing page of the panel click on No.1
+
+<img width="2556" height="1369" alt="game_Panel_VPS_4" src="https://github.com/user-attachments/assets/0af304b8-ba64-412a-9fb1-70eb7f851a63" />
+
+Now your server should already be stopped. Click on No.2
+
+<img width="2557" height="885" alt="game_Panel_VPS_5" src="https://github.com/user-attachments/assets/5aab348c-1c8a-42cf-96bb-404a71496cda" />
+
+Scroll down on the page until you see mods ID info panel/box. !!!NOTE!!! You can ignore the instructions provided. I tested it and it didn't work.
+
+Now add the mod ID's that have the following format:
+
+\{name_of_the_mod};
+
+#### Example
+
+        \ChuckleberryFinnAlertSystem;\GRM-MyOwnWell;\GRM-MyOwnWell-SafeRemover;\GRM-MyOwnWell-50;\79camaro;\81deloreanDMC12;\81deloreanDMC12BTTF;\damnlib;\92fordCVPI;\KI5campers;\RepairableWindows;\SandboxSettings;\SkillRecoveryJournal;\77firebird;\67gt500;\89defender;\88chevyS10
+
+
+## Panel 2: adding Steam Workshop ID's to installing Project Zomboid panel/box
 
 
 
-### Updates Panel 3: adding Steam Workshop ID's to updates page
-
-
+## Updates Panel 3: adding Steam Workshop ID's to updates page
 
 <img width="2557" height="885" alt="game_Panel_VPS_5" src="https://github.com/user-attachments/assets/efe1ddfa-ceb7-44b9-8cf6-6c400a11d294" />
 
@@ -36,13 +53,10 @@ The page should contain a panel with the following header: Steam Workshop Items
 
 <img width="2557" height="870" alt="game_Panel_VPS_7" src="https://github.com/user-attachments/assets/0ac38872-894a-480e-91a5-3314a5592336" />
 
-Click on No. 1 to save the Steam workshops Items ID's.
+Click on No. 1 to edit the Steam workshops Items ID's.
+
+<img width="2557" height="877" alt="game_Panel_VPS_8" src="https://github.com/user-attachments/assets/f84988f9-853d-4993-9edb-513060c8886a" />
+
+When your done editing the field click the save button and proceed with the instruction below.
 
 Now that we've added all the Steam and Mod ID's to the correct panel/boxes update the server.
-
-### Load mods panel (aka Panel 1) 
-
-\ChuckleberryFinnAlertSystem;\GRM-MyOwnWell;\GRM-MyOwnWell-SafeRemover;\GRM-MyOwnWell-50;\79camaro;\81deloreanDMC12;\81deloreanDMC12BTTF;\damnlib;\92fordCVPI;\KI5campers;\RepairableWindows;\SandboxSettings;\SkillRecoveryJournal;\77firebird;\67gt500;\89defender;\88chevyS10
-
-Two panels will be listed under No. 1. The first panel will need Steam ID's from the workshop and the second panel will need the ID from the mod.info file. 
-Another panel we'll look up the directory under No. 2 where we need to add the Steam ID's from the workshop.

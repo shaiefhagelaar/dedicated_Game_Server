@@ -21,3 +21,5 @@ After you tested the mods one by one add one mod at a time and take note of whic
 A really cool channel that helps big time, he explains modding in a really helpful way you can find his tips and tricks here:
 
     https://www.youtube.com/@gamerpoets
+
+Also make sure you have admin rights for your character so you can test the mods more efficiently.
